@@ -108,12 +108,3 @@ The frontend will run at `http://127.0.0.1:5173` and proxy API calls to the back
 - `PUT /settings`
 - `GET /health`
 
-## Resume-friendly bullets
-
-- Built a full-stack job application tracker using React, FastAPI, SQLAlchemy, and SQLite, implementing analytics, personalized dashboards, and differentiated workflow features.
-- Designed a behavior-focused product experience with a momentum engine, ghost-risk follow-up detection, and skill-gap scoring to help users apply more consistently.
-- Developed a RESTful backend and responsive frontend, creating end-to-end CRUD flows, data visualizations, seeded data, and modular business-logic services.
-
-## Honest positioning for interviews
-
-This project includes AI-style recommendations using local scoring and business logic, not an external LLM. That keeps the product fast, explainable, and demo-friendly. It is designed so a real AI service could be added later for resume tailoring, outreach drafts, or smarter job matching.
